@@ -6,6 +6,8 @@ Projeto em React + Typescript fazendo uma calculadora de IMC.
 
 Projeto feito baseado em referência do curso [B7Web](https://b7web.com.br)
 
+- [Clique aqui para acessar o projeto!](https://react-imc-chi.vercel.app/)
+
 >## Tecnologias
 
 - HTML
